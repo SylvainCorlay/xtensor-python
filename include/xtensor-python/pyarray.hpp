@@ -20,6 +20,8 @@
 #include "xtensor/xsemantic.hpp"
 #include "xtensor/xiterator.hpp"
 
+#include "xpointer_adaptor.hpp"
+
 namespace xt
 {
 
